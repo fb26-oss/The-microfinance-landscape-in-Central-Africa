@@ -1,4 +1,4 @@
- Etat des Lieux du Paysage de la Microfinance dans la CEMAC
+ The microfinance landscape in Central Africa (Etat des Lieux du Paysage de la Microfinance dans la CEMAC)
 
  Overview
 This repository hosts a thematic study published by the Bank of Central African States (BEAC), titled Etat des lieux du paysage de la microfinance dans la CEMAC, part of the broader 2019 thematic series on Microfinance et Surliquidite Bancaire dans la CEMAC. The paper was authored by a team of BEAC researchers: Bomba Mbida Frederic, Ndzie Felix, Kenkouo Guy Albert,  and Onomo Betsama Julie. The document was released by BEAC's Direction Generale des Etudes, Finances et Relations Internationales, dated 3 January 2022.
